@@ -475,7 +475,9 @@ header.sticky {
 .tab_middle a:hover::before {
 	width: 100%;
 }
-
+.tab_n_02 a {
+	margin-top: 0;
+}
 /*==================================
 	 	Sub List Css Here 
 ==================================*/
